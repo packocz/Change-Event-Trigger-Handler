@@ -1,0 +1,20 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "dependencies": [
+                {
+                    "package": "fflib"
+                }
+            ]
+        }
+    ],
+    "name": "Change Event Trigger Handler",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "57.0",
+    "packageAliases": {
+        "fflib@0.1.0.1": "0Ho08000000GmepCAC"
+    }
+}
