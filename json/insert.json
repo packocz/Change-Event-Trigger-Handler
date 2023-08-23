@@ -1,0 +1,35 @@
+{
+    "attributes": {
+        "type": "AccountChangeEvent",
+        "url": "/services/data/v58.0/sobjects/AccountChangeEvent/4690507"
+    },
+    "LastModifiedDate": "2023-08-23T12:42:57.000+0000",
+    "PersonDoNotCall": false,
+    "IsActive": false,
+    "Name": "Test Account 1",
+    "IsExcludedFromRealign": false,
+    "CleanStatus": "Pending",
+    "PersonHasOptedOutOfFax": false,
+    "OwnerId": "0051l000008grjnAAA",
+    "CreatedById": "0051l000008grjnAAA",
+    "ReplayId": "4690507",
+    "ChangeEventHeader": {
+        "changeOrigin": "com/salesforce/api/soap/58.0",
+        "changeType": "CREATE",
+        "changedFields": [],
+        "commitNumber": 11265679542632,
+        "commitTimestamp": 1692794577000,
+        "commitUser": "0051l000008grjnAAA",
+        "diffFields": [],
+        "entityName": "Account",
+        "nulledFields": [],
+        "recordIds": ["0011l00001QWJfuAAH"],
+        "sequenceNumber": 1,
+        "transactionKey": "00017cc9-38b5-5627-df56-ab19f68b87c4"
+    },
+    "CreatedDate": "2023-08-23T12:42:57.000+0000",
+    "Id": "1CExx000000JgDLGA0",
+    "LastModifiedById": "0051l000008grjnAAA",
+    "PersonHasOptedOutOfEmail": false,
+    "CustomFormula__c": false
+}
